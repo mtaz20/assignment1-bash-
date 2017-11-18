@@ -1,5 +1,11 @@
 # assignment1-bash-
+
 Student Grading System Programmed in Bash Script
+
+The script is designed in two type Column version and Row version which is their output is deffined to be in column and another in rrow.
+Column files: gradingSystem.sh OSSGrades.csv
+Row files: gradingSystemInRow.sh Grades.csv
+
 A: How you handled setting variables and default values ?
 Answer A: Each variables have its own data type such as name&gen=string which are student name and gender. ID and all student grades are=string
 
